@@ -1,0 +1,28 @@
+Case Study #2
+
+Our IT company embarked on an ambitious project in January 2024 aimed at delivering a cutting-edge software solution to our users and clients. 
+The project was meticulously planned with a target launch date of June 1. However, as the deadline approaches, it becomes apparent 
+that several tasks are still in progress, and there are unresolved bugs that need attention. The testing process, crucial for ensuring product quality,
+has not yet begun. As a software engineer involved in the project, what aspects could have been handled better to prevent the delays and issues experienced, 
+such as incomplete tasks, unresolved bugs, and a delayed testing process?
+
+For this activity, evaluate the situation and offer your suggestions on areas where improvements could have been made.
+
+
+Answer:
+
+As a software engineer, the first thing that comes to mind that should handled better are:
+
+1. Do the project have enough manpower to finish on the designated timeline? Enough manpower is a crucial part to a project, even if you have 
+   an employee that can handle various tasks of many people, there is still a difference between two or more people working on these tasks compared
+   to a one person working all these tasks.
+2. Is the time enough for this project? Enough time is also a crucial part to a project. To my experience having enough time gives a project more
+   life compared to very little time that results to cramming.
+3. Are requirements reasonable? Understanfing the requirements for the project such as what are the deliverables can make a difference. You can assign
+   the right person to the right tasks and alot a reasonable time to a certain tasks.
+4. Do I have the right management to manage the project? Sometimes mis-management is also a reason to a project failure, even if you have the 
+   right people, a reasonable time and excellent understanding to the requirements but management is not good enough surely the project will fail.
+
+Lastly, being ambitious is a good thing, just like in chess great players that are on the top are the players who always takes risks its either 
+a win or loss, but players who always play safe always a draw, are not at the top. The point is be ambitious but make sure you a plan B or C even if you fail 
+you can still have backup plan.
